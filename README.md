@@ -58,20 +58,6 @@ tools       Git, GitHub, cargo, nmap, tcpdump, Wireshark, journalctl
 
 ---
 
-## Lab Notes
-
-I use this profile to track what I learn, not to pretend I know everything.
-
-```text
-read logs carefully
-prefer proof over guesses
-make small tools
-document what changed
-learn from false positives
-```
-
----
-
 ## Featured Work
 
 | Project | What it does | Tech |
@@ -85,11 +71,8 @@ learn from false positives
 
 ## GitHub Stats
 
-<!-- Replace YOUR_USERNAME with your GitHub username. -->
+![GitHub stats](https://streak-stats.demolab.com/?user=l0h1nth&theme=default&border=000000)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=l0h1nth&show_icons=true&hide_title=true&theme=graywhite&border_color=000000&text_color=000000&icon_color=000000&title_color=000000&bg_color=ffffff)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l0h1nth&layout=compact&theme=graywhite&border_color=000000&text_color=000000&title_color=000000&bg_color=ffffff)
 
 ---
 
