@@ -1,8 +1,5 @@
 # Lohinth M
 
-```text
-cybersecurity learner | linux defender | detection engineering
-```
 
 I play CTFs and build small security projects to learn how real vulnerabilities work.
 Interested in web exploitation, Linux internals, forensics, and defensive security.
