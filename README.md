@@ -4,9 +4,8 @@
 cybersecurity learner | linux defender | detection engineering
 ```
 
-I build small, practical security projects that help me understand how real systems behave under pressure. My focus is defensive cybersecurity: Linux internals, endpoint monitoring, log analysis, threat detection, and incident response fundamentals.
-
-I like tools that are simple, inspectable, and useful from the terminal.
+I play CTFs and build small security projects to learn how real vulnerabilities work.
+Interested in web exploitation, Linux internals, forensics, and defensive security.
 
 ---
 
@@ -18,16 +17,6 @@ focus       Linux security, EDR concepts, SIEM workflows, detection rules
 learning    Rust, Python, Bash, networking, malware behavior basics
 style       quiet tools, clear logs, reproducible labs
 ```
-
-I am currently building hands-on projects around:
-
-- Linux process and file monitoring
-- Suspicious command and persistence detection
-- JSONL log pipelines
-- Network socket inspection
-- Defensive automation scripts
-- Security writeups and lab notes
-
 ---
 
 ## Current Project
@@ -63,7 +52,6 @@ tools       Git, GitHub, cargo, nmap, tcpdump, Wireshark, journalctl
 | Project | What it does | Tech |
 | --- | --- | --- |
 | Mini Linux EDR | Linux endpoint monitoring and JSONL alerts | Rust, Linux |
-| Log Parser | Parses security logs into readable summaries | Python |
 | Detection Rules | Simple rules for suspicious Linux behavior | TOML, Regex |
 | Home Lab | Notes from defensive security experiments | Linux, Networking |
 
