@@ -65,7 +65,6 @@ tools       Git, GitHub, cargo, nmap, tcpdump, Wireshark, journalctl
 
 ```text
 github      https://github.com/l0h1nth
-linkedIn    https://www.linkedin.com/in/lohinth-m-003106287/
 ```
 
 ---
