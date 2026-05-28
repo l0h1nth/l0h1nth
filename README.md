@@ -64,7 +64,8 @@ tools       Git, GitHub, cargo, nmap, tcpdump, Wireshark, journalctl
 ## Contact
 
 ```text
-github      https://github.com/l0h1nth
+Mail lohinth25@proton.me
+
 ```
 
 ---
