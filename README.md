@@ -58,7 +58,6 @@ tools       Git, GitHub, cargo, nmap, tcpdump, Wireshark, journalctl
 
 ![GitHub stats](https://streak-stats.demolab.com/?user=l0h1nth&theme=default&border=000000)
 
-
 ---
 
 ## Contact
