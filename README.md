@@ -38,7 +38,6 @@ Repository: `https://github.com/l0h1nth/mini-linux-edr`
 systems     Linux, Bash, processes, filesystems, services
 security    detection engineering, log analysis, persistence checks
 coding      Rust, Python, shell scripting
-data        JSON, JSONL, TOML, regex, command-line parsing
 tools       Git, GitHub, cargo, nmap, tcpdump, Wireshark, journalctl
 ```
 
