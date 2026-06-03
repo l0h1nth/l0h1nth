@@ -16,6 +16,20 @@ style       quiet tools, clear logs, reproducible labs
 ```
 ---
 
+## Open Source Contributions
+
+### Odysseus
+Self-hosted AI workspace for local-first chat, agents, documents, memory, email, calendar, and model serving.
+
+- Hardened multi-user document tool owner scoping so agent document tools cannot list, read, edit, suggest against, or delete another user’s documents.
+- Fixed a companion pairing route runtime `NameError` by restoring the missing admin guard import.
+- Added focused regression tests for owner isolation and companion pairing route behavior.
+
+Merged PRs:
+- `#618` Harden document tool owner scoping
+- `#927` Fix companion pairing admin guard import
+  
+
 ## Current Project
 
 ### Mini Linux EDR Agent
