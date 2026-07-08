@@ -24,6 +24,12 @@ calendar, and model serving.
 - [#618](https://github.com/pewdiepie-archdaemon/odysseus/pull/618) Hardened agent document owner scoping so users cannot access another user's documents through document tools.
 - [#927](https://github.com/pewdiepie-archdaemon/odysseus/pull/927) Fixed companion pairing route behavior by restoring a missing admin guard import and adding regression coverage.
 
+## GitHub Stats
+
+![GitHub stats](https://streak-stats.demolab.com/?user=l0h1nth&theme=default&border=000000)
+
+---
+
 ## Activity
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=l0h1nth&theme=github-compact&hide_border=true&area=true)
