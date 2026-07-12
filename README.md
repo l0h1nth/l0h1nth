@@ -30,7 +30,7 @@ Mail: `lohinth25@proton.me`
 
 ## GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=l0h1nth&color=blue)
 
 ![GitHub stats](https://streak-stats.demolab.com/?user=l0h1nth&theme=default&border=000000)
 
