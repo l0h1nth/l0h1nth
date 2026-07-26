@@ -28,13 +28,4 @@ calendar, and model serving.
 
 Mail: `lohinth25@proton.me`
 
-## GitHub Stats
-
-![GitHub stats](https://streak-stats.demolab.com/?user=l0h1nth&theme=default&border=000000)
-
----
-
-## Activity
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=l0h1nth&theme=github-compact&hide_border=true&area=true)
 
