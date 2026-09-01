@@ -16,6 +16,11 @@ Site: [l0h1nth.dev](https://l0h1nth.dev)
 
 ## Open Source
 
+### CPython — CVE-2026-19672
+
+Discovered and responsibly disclosed a path-traversal vulnerability in CPython's tarfile extraction filter, allowing directory creation
+outside the intended extraction path.
+
 ### Odysseus
 
 Self-hosted AI workspace for local-first chat, agents, documents, memory, email,
